@@ -1,0 +1,10 @@
+Cancer Type,No. Trials (NCT IDs),No. Sites (ZIPs),% Population Covered,Covered Population (M),% Urban Pop Covered,% Rural Pop Covered,% Lowest Income Quartile Covered,% Highest Income Quartile Covered,% Hispanic Pop Covered,% Black Pop Covered
+any_gi,283,1322,93.7%,313.51,96.1%,81.8%,85.1%,99.1%,90.6%,94.2%
+Colorectal_cancer,82,1026,91.7%,306.85,94.6%,77.1%,81.9%,98.7%,89.7%,92.6%
+Gastroesophageal Cancer,46,684,85.3%,285.50,89.1%,66.6%,69.6%,96.6%,81.2%,84.5%
+Hepatocellular_cancer,45,210,70.6%,236.10,77.8%,34.7%,52.4%,91.0%,75.8%,75.8%
+Pancreatic_cancer,75,730,89.2%,298.53,92.7%,71.7%,76.8%,98.6%,85.2%,90.6%
+Adenocarcinoma,2,419,61.3%,205.18,64.2%,46.8%,51.2%,68.6%,63.2%,57.0%
+Anal_cancer,5,19,27.0%,90.18,31.1%,6.4%,17.5%,44.4%,26.6%,36.2%
+Appendiceal_cancer,1,1,2.0%,6.85,2.4%,0.3%,2.3%,2.3%,3.9%,2.9%
+BiliaryDuct_cancer,28,109,60.4%,202.16,67.5%,25.0%,43.2%,80.5%,62.9%,66.0%

@@ -1,0 +1,10 @@
+Cancer Label,Trials Phase 1,Trials Phase 2,Trials Phase 3,Enrollment Phase 1,Enrollment Phase 2,Enrollment Phase 3,Industry Trials,Industry Enrollment,NIH Trials,NIH Enrollment,Fed Trials,Fed Enrollment,Other Trials,Other Enrollment
+Any GI (Unique),66,174,43,2590.0,12671.0,23205.0,86,25127,16,1042,2,156,179,12141
+Adenocarcinoma,0,2,0,,130.0,,0,0,0,0,0,0,2,130
+Anal_cancer,2,3,0,69.0,143.0,,0,0,1,40,0,0,4,172
+Appendiceal_cancer,0,1,0,,39.0,,0,0,0,0,0,0,1,39
+BiliaryDuct_cancer,4,19,5,83.0,1112.0,2816.0,10,3257,3,161,0,0,15,593
+Colorectal_cancer,20,49,13,881.0,4230.0,8749.0,28,8630,5,189,0,0,49,5041
+Gastroesophageal Cancer,9,26,11,238.0,2831.0,5368.0,16,6045,1,224,2,156,27,2012
+Hepatocellular_cancer,8,32,5,400.0,1963.0,2789.0,17,3597,2,130,0,0,26,1425
+Pancreatic_cancer,23,43,9,919.0,2320.0,3483.0,16,3695,4,298,0,0,55,2729

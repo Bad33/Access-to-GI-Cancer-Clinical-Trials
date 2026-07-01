@@ -1,0 +1,6 @@
+Cancer Type,No. Trials (NCT IDs),No. Sites (ZIPs),% Population Covered,Covered Population (M),% Patients Covered (SEER Incidence),% Urban Pop Covered,% Rural Pop Covered,% Lowest Income Quartile Covered,% Highest Income Quartile Covered,% Hispanic Pop Covered,% Black Pop Covered
+any_gi,189,169,72.9%,243.76,NA,80.6%,34.4%,54.2%,93.2%,74.1%,79.9%
+leukemia,34,39,43.0%,144.01,NA,49.4%,11.5%,25.1%,68.6%,52.0%,46.2%
+myeloma,23,96,67.6%,226.07,NA,75.6%,27.7%,46.8%,91.1%,70.6%,73.9%
+Solid_cancer,64,54,51.1%,171.07,NA,58.1%,16.2%,33.1%,77.0%,53.8%,57.7%
+lymphoma,68,123,69.9%,234.04,NA,77.9%,30.4%,50.1%,92.0%,71.8%,77.9%
